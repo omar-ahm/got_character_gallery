@@ -9,6 +9,7 @@ const App = () => {
       <CharacterGallery />
     </div>
   );
+  
 };
 
 export default App;
