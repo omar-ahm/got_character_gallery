@@ -11,6 +11,7 @@ const Character = ({ name, imgUrl, birth, death, race, realm, spouse }) => {
                 <li data-test='char-birth'>
                     Date of Birth: {birth}
                 </li>
+                
                 <li data-test='char-death'>
                     Date of Death: {death}
                 </li>
